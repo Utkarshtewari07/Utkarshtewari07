@@ -38,13 +38,6 @@ Passionate about integrating **Generative AI and LLM automation** into data plat
 ### [Vehicular Networks Capstone Project](#)
 - Implemented **V2X spectrum sharing** between V2I & V2V links with optimized power allocation.  
 - Tech Stack: Python, MATLAB
-
----
-
-## GitHub Stats
-
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshtewari07&show_icons=true&theme=radical)
-
 ---
 
 ## Contact Me
