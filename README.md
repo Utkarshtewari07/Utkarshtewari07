@@ -44,5 +44,5 @@ Passionate about integrating **Generative AI and LLM automation** into data plat
 
 - 📫 Email: utkarshtewari80@gmail.com  
 - 🔗 LinkedIn: [Utkarsh Tewari](https://www.linkedin.com/in/utkarsh-tewari-01758014b)  
-- 💻 LeetCode: [360+ problems solved](https://www.leetcode.com/utkarshtewari)  
+- 💻 LeetCode: [360+ problems solved](https://leetcode.com/u/Utkarsh_Tewari/)  
 - 📄 Resume: [Download PDF](#)
