@@ -1,52 +1,55 @@
-# Hi there, I’m Utkarsh 👋  
-**Full‑Stack Developer | Java Enthusiast | Automation Aficionado**
+# Hi there, I'm Utkarsh Tewari 👋
 
-## 🔭 I’m currently  
-- Building [Project Name], a full‑stack application using Spring Boot + React + MySQL.  
-- Learning advanced microservices and cloud deployment (AWS, Docker, Kubernetes).  
-- Contributing to open‑source Java projects (feel free to check my issues/PRs).
+## About Me
+Backend Engineer with expertise in **scalable microservices, distributed systems, and API development** using **Java, Python, and TypeScript**.  
+Passionate about integrating **Generative AI and LLM automation** into data platforms for smarter workflows.  
 
-## 🌱 I’m currently learning  
-- GraphQL & WebSockets in frontend/backend.  
-- DevOps automation & CI/CD pipelines.
-
-## 💬 Ask me about  
-Java, Spring Boot, REST APIs, React, Node.js, Python scripting, automation of workflows.
-
-## 📫 How to reach me  
-[Email](mailto:utkarshtewari80@gmail.com) | [LinkedIn](https://linkedin.com/in/your‑profile) | [Twitter](https://twitter.com/yourhandle)
-
-## 🛠 Skills & Technologies  
-**Languages:** Java, JavaScript (ES6+), Python  
-**Backend:** Spring Boot, Node.js, Express  
-**Frontend:** React, Redux, HTML, CSS  
-**DB:** MySQL, MongoDB  
-**Tools & DevOps:** Git, Docker, AWS EC2/S3, Jenkins, GitHub Actions  
-**Others:** Data Structures & Algorithms, Low / High Level Design  
-
-## 🚀 Selected Projects  
-### [Project‑A](link)  
-*Full‑stack task management system* — Built using Spring Boot, React, MySQL. Features: user auth, CRUD operations, REST API, role‑based access.  
-✅ Deployed on AWS EC2.  
-👉 [GitHub repo link]
-
-### [Project‑B](link)  
-*Automation script for …* — Python script that automates X, improves productivity for Y.  
-📊 Over 100 uses, reduced manual work by ~40%.  
-👉 [GitHub repo link]
-
-### [Project‑C (Open‑Source Contribution)](link)  
-Contributed to “Awesome Java X” project — implemented feature Y, fixed bug Z, test coverage increased by 15%.  
-👉 [Pull Request link]
-
-## 📈 GitHub Stats  
-![Utkarsh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshtewari07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshtewari07&theme=radical&layout=compact)
-
-## 🎮 Fun fact  
-I love playing chess and learning new board games.  
-I believe automation should make our lives easier — less boring, more creative.
+- 📍 Based in Bengaluru, India  
+- 💼 Currently at **Uniphore / Infoworks.io**  
+- 🌱 Constantly learning **advanced backend architectures, LLM pipelines, and cloud data platforms**  
 
 ---
 
-Thank you for stopping by! Feel free to connect 😊
+## Tech Stack
+
+**Languages:** Java, Python, TypeScript, C++, C  
+**Frameworks:** Spring Boot, FastAPI, Flask, Express  
+**Databases:** PostgreSQL, MySQL, MongoDB, Oracle, Snowflake  
+**Infra / Tools:** Kafka, Docker, Kubernetes, Jenkins, AWS, OpenTelemetry, Grafana, Splunk  
+
+---
+
+## Key Projects
+
+### [Golden SQL Framework](#)
+- Automated **canonical SQL query generation, validation, and management** across 1000+ data pipelines.  
+- Integrated **LLM-assisted prompts** for faster schema onboarding and analytics automation.  
+- Tech Stack: Java, Python, FastAPI, PostgreSQL, LangChain, Snowflake, Databricks
+
+### [Microservice Observability Platform](#)
+- Built **centralized observability stack** for FastAPI & Spring Boot services using **OpenTelemetry, Prometheus, Grafana**.  
+- Enabled **distributed trace correlation**, reducing debugging time by 30%.  
+- Tech Stack: FastAPI, Spring Boot, OpenTelemetry, Prometheus, Grafana
+
+### [AI Metadata Assistant](#)
+- AI-powered backend service for **metadata generation, validation, and enrichment** using LLMs & vector search.  
+- Tech Stack: Python, FastAPI, PostgreSQL, LangChain, OpenAI/GPT  
+
+### [Vehicular Networks Capstone Project](#)
+- Implemented **V2X spectrum sharing** between V2I & V2V links with optimized power allocation.  
+- Tech Stack: Python, MATLAB
+
+---
+
+## GitHub Stats
+
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshtewari07&show_icons=true&theme=radical)
+
+---
+
+## Contact Me
+
+- 📫 Email: utkarshtewari80@gmail.com  
+- 🔗 LinkedIn: [Utkarsh Tewari](https://www.linkedin.com/in/utkarsh-tewari-01758014b)  
+- 💻 LeetCode: [360+ problems solved](https://www.leetcode.com/utkarshtewari)  
+- 📄 Resume: [Download PDF](#)
